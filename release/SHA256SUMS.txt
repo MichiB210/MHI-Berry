@@ -1,0 +1,6 @@
+e22803e8fa6b9f776164257aa3f95ea5fb1a80e810aafa4d28259dfd6a0840c2  ./C/mhiberry_engine
+c61ac002c3101ad8dc03f32947b980dd0097d5c36aa2a5c93e1441b84011d1d4  ./LIBS/MHI/berry_mp3.module
+4fb130088fa46d648854ac55b6a21398531e76d1c459885faba08dbeeb641157  ./LIBS/MHI/mhiberry.library
+9b2ef4ded101d6aa70752714767651dc70fb777c28a33796c59dfff6cf26e57c  ./kernel/Emu68-pistorm-BerryCore
+b0a3a2684540464396379c1dadd20eb29467998ade23d87eaa2dd51abb915183  ./kernel/Emu68-pistorm-classic-BerryCore2.gz
+8072f29556f0743c80a5dffb32bc9f09af38cf8a9d926c689fdd2225ed722431  ./test_997Hz_44100_stereo.mp3
