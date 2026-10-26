@@ -69,7 +69,9 @@ Dafür gibt es zwei Möglichkeiten:
 
        kernel=kernel/Emu68-pistorm-classic-BerryCore2.gz
 
-Beim nächsten Neustart erscheint die BerryCore-Meldung aus der Tabelle.
+Beim nächsten Neustart erscheint die BerryCore-Meldung aus der Tabelle:
+
+![Bootschirm mit Emu68-BerryCore](https://filedn.eu/l9KjryqP6muhkPuoaMYzK1L/amiga/mp3/boot.png)
 
 ### 2. MHI-Dateien installieren
 
@@ -86,6 +88,8 @@ Beim nächsten Neustart erscheint die BerryCore-Meldung aus der Tabelle.
 
 - **MHI Unterstützung:** aktivieren
 - **MHI Treiber:** `mhiberry.library`
+
+![AmiAMP-Einstellungen: Dekoder mit MHI-Treiber mhiberry.library](https://filedn.eu/l9KjryqP6muhkPuoaMYzK1L/amiga/mp3/AMIAMP.png)
 
 Neustart. Das war's. Viel Spaß!
 
