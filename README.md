@@ -71,7 +71,7 @@ Dafür gibt es zwei Möglichkeiten:
 
 Beim nächsten Neustart erscheint die BerryCore-Meldung aus der Tabelle:
 
-![Bootschirm mit Emu68-BerryCore](https://filedn.eu/l9KjryqP6muhkPuoaMYzK1L/amiga/mp3/boot.png)
+<img src="https://filedn.eu/l9KjryqP6muhkPuoaMYzK1L/amiga/mp3/boot.png" alt="Bootschirm mit Emu68-BerryCore" width="400">
 
 ### 2. MHI-Dateien installieren
 
